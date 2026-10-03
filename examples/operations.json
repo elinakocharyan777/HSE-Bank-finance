@@ -1,0 +1,16 @@
+[
+  {
+    "type": 1,
+    "category": "Salary",
+    "amount": 100,
+    "date": "2025-01-15",
+    "description": "Demo income"
+  },
+  {
+    "type": 2,
+    "category": "Food",
+    "amount": 30,
+    "date": "2025-01-16",
+    "description": "Demo expense"
+  }
+]
