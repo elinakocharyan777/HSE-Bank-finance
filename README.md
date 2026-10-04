@@ -19,7 +19,7 @@
 Требования: **.NET SDK 8.0** и Git. База данных и внешние сервисы не требуются.
 
 ```bash
-git clone https://github.com/elinakocharyan777/hsebank-finance.git
+git clone https://github.com/elinakocharyan777/HSE-Bank-finance.git hsebank-finance
 cd hsebank-finance
 dotnet restore HSEBank.Finance.sln
 dotnet build HSEBank.Finance.sln -c Release
@@ -105,7 +105,7 @@ HSEBank.Console/
 HSEBank.Logic/
 HSEBank.Infrastructure/
 examples/                    # Проверенные входные CSV/JSON
-docs/                       # Документация и результаты проверки
+docs/                        # Документация и результаты проверки
 ```
 
 ## Хранение данных и известные ограничения
